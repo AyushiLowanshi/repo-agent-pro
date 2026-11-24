@@ -1,0 +1,8 @@
+[
+  {
+    "id": "login-conditions-v1",
+    "project": "fixtures/sample_project",
+    "question": "Read login.py and explain every condition in the login function.",
+    "required_terms": ["login.py", "username", "password", "invalid credentials"]
+  }
+]
